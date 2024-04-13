@@ -4,7 +4,7 @@
 [![LinkdIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afranionunesdantas/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/afranio_dev/)
 
-![Afrânio GitHub stats](https://github-readme-stats.vercel.app/api?username=Marvinx9&show_icons=true&theme=merko)
+
 
 ### Tecnologias que eu utilizo
 
