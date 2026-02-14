@@ -7,13 +7,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=255373&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=255373&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Meu+nome+é+Afrânio+Dantas;Sou+desenvolvedor+FullStack;E+estudante+de+Ciências+da+Computação;Seja+bem-vindo(a)!+:%29)](https://git.io/typing-svg)
-##
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Marvinx9&show_icons=true&count_private=true&hide_border=true&title_color=e181d5&icon_color=0776d8&text_color=75eeb2&bg_color=193549" alt="Afrânio Dantas github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marvinx9&layout=donut&hide_border=true&title_color=e181d5&text_color=75eeb2&bg_color=193549" />
-</div>
-
-##
 
 [![Marvinx9's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Marvinx9&bg_color=193549&title_color=e181d5&color=75eeb2&line=c577c2&point=0776d8&area=true&hide_border=true)](https://github.com/Evanildo-Silva/github-readme-activity-graph)
 
